@@ -88,8 +88,15 @@
 
 ## Featured Projects
 
-- **[FindIt](https://github.com/nahid4x/lost-and-found-management-system)**: lost-and-found management system (React, Docker)
-- **NaraWatch**: watch-party web app <!-- add repo link: [NaraWatch](https://github.com/nahid4x/REPO_NAME) -->
+| Project | Description |
+| :-- | :-- |
+| **NaraDrop** | <!-- add one-line description --> |
+| **NaraWatch** | Watch-party web app |
+| **BorrowBox** | <!-- add one-line description --> |
+| **MyDiary** | <!-- add one-line description --> |
+| **[FindIt](https://github.com/nahid4x/lost-and-found-management-system)** | Lost-and-found management system (React, Docker) |
+
+<!-- Link each name like: **[NaraDrop](https://github.com/nahid4x/REPO_NAME)** -->
 
 ---
 
