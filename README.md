@@ -90,11 +90,11 @@
 
 | Project | Description |
 | :-- | :-- |
-| **NaraDrop** | <!-- add one-line description --> |
+| **NaraDrop** | P2P file transfer app over WebRTC |
 | **NaraWatch** | Watch-party web app |
-| **BorrowBox** | <!-- add one-line description --> |
-| **MyDiary** | <!-- add one-line description --> |
-| **[FindIt](https://github.com/nahid4x/lost-and-found-management-system)** | Lost-and-found management system (React, Docker) |
+| **BorrowBox** | Student item borrowing platform |
+| **MyDiary** | Personal diary & journaling app |
+| **[FindIt]** | Lost-and-found management system (React, Docker) |
 
 <!-- Link each name like: **[NaraDrop](https://github.com/nahid4x/REPO_NAME)** -->
 
