@@ -1,7 +1,7 @@
 <!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=NAHID&fontSize=80&fontColor=00F7FF&fontAlignY=38&animation=fadeIn&desc=//%20CYBERSECURITY%20RESEARCHER%20%26%20DEVELOPER&descSize=18&descColor=B0B8C4&descAlignY=60" width="100%" alt="NAHID header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:12303a,100:00F7FF&height=200&section=header&text=NAHID&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20Researcher%20and%20Developer&descSize=18&descAlignY=62" width="100%" alt="NAHID header" />
 
 <a href="https://github.com/nahid4x">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=640&height=45&lines=Pen+Tester+%7C+Software+Developer;Securing+modern+digital+systems;PUBG+%26+COD+Pro+Player+%2B+Coach;Building+%26+shipping+under+NARA" alt="Typing SVG" />
