@@ -17,19 +17,7 @@
 
 ## About Me
 
-```text
-> whoami
-  Nahid // NARA
 
-> role
-  Cybersecurity Researcher & Developer
-
-> focus
-  Security · Software Development · System Solutions
-
-> status
-  ● AVAILABLE FOR PROJECTS
-```
 
 - Researching, developing, and securing modern digital systems: penetration testing, vulnerability assessment, and security-focused applications
 - Building web applications, APIs, and developer tools
